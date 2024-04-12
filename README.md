@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Avi, a passionate Java developer hailing from [Your Location]. With a keen interest in software development and a love for problem-solving, I thrive in the dynamic world of programming.<br>I'm excited to connect with like-minded individuals, share insights, and embark on new adventures in the world of software development. Feel free to reach out—I'm always up for a chat or a coding challenge!
+Hello there! 👋 I'm Avi, a passionate Full Stack Web developer hailing from India. With a keen interest in software development and a love for problem-solving, I thrive in the dynamic world of programming.<br>I'm excited to connect with like-minded individuals, share insights, and embark on new adventures in the world of software development. Feel free to reach out—I'm always up for a chat or a coding challenge!
 
 
 ## 🌐 Socials:
