@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Full Stack Development <br>- 📚 I'm currently learning Data Structures<br>- ⚡ In my free time I like to explore to places ⛰️`</p>
+<p align="left">- 🔭 I’m working as Full Stack Development <br>- 📚 I'm currently learning Data Structures<br>- ⚡ In my free time I like to explore to new places ⛰️`</p>
 
 ###
 
