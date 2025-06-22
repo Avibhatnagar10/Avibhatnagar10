@@ -38,7 +38,7 @@ Whether it's solving a complex bug at midnight or experimenting with tech on wee
 
 ### 🧠 Projects Worth Noticing
 
-- **NexStream** — AI-powered live streaming platform with real-time transcription, moderation, and collaboration 
+- **NexStream** — AI-powered live streaming platform with real-time video calling, moderation, and collaboration.
 - **AI Video Analyzer** — End-to-end content analysis for YouTube videos, including transcription, hate speech detection, and sentiment analysis (FastAPI, Celery, HuggingFace, Whisper, yt-dlp)
 
 
