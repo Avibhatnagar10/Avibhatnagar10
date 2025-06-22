@@ -38,9 +38,9 @@ Whether it's solving a complex bug at midnight or experimenting with tech on wee
 
 ### 🧠 Projects Worth Noticing
 
-- **NexStream** — AI-powered live streaming platform with real-time transcription, moderation, and collaboration (Next.js, WebRTC, Whisper, FFmpeg)
+- **NexStream** — AI-powered live streaming platform with real-time transcription, moderation, and collaboration 
 - **AI Video Analyzer** — End-to-end content analysis for YouTube videos, including transcription, hate speech detection, and sentiment analysis (FastAPI, Celery, HuggingFace, Whisper, yt-dlp)
-- **StreamForge** — Dark-themed live streaming playground with avatars, multi-user collaboration, and invite-based sharing
+
 
 > Each project is built with care for design, architecture, and scalability — not just functionality.
 
