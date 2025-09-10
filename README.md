@@ -1,4 +1,4 @@
-<h1 align="center">Avi Bhatnagar | Full Stack Developer</h1>
+<h1 align="center">Avi Bhatnagar | Software Developer</h1>
 
 <p align="center">
   Architecting scalable systems, building with intent, and coding with purpose.
