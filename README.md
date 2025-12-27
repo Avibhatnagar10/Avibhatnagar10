@@ -68,9 +68,7 @@ From crafting **intuitive frontends** to designing **scalable backends**, I focu
   <a href="https://www.linkedin.com/in/avi-bhatnagar-54518321a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Avi_Bhatnagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/aviiii_10/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@aviiii_10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
   <a href="mailto:avibhatnagar10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
