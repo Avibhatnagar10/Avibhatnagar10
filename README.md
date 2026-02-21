@@ -37,10 +37,10 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgresql,docker,aws,githubactions,selenium,linux,git,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgresql,docker,aws,githubactions,selenium,linux,git,postman,redis,kafka,rabbitmq,python,kubernetes&theme=dark" />
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avibhatnagar10&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=ffffff&text_color=A2D2FF" width="400px" />
+ 
 </div>
 
 ---
