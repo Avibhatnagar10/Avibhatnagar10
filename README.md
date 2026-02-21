@@ -1,81 +1,99 @@
-<h1 align="center">👨‍💻 Avi Bhatnagar | Software Developer</h1>
-
-<p align="center">
-   <b>Building scalable systems • Crafting seamless experiences • Coding with intent</b>
-</p>
-
----
-
-## 🚀 About Me
-
-Hey there, I’m **Avi** — a curious mind and passionate **Full Stack Developer** who loves turning ideas into impactful software.  
-From crafting **intuitive frontends** to designing **scalable backends**, I focus on writing clean, efficient, and future-ready code.
-
-✨ Whether it’s squashing a tricky midnight bug or prototyping a new SaaS idea on weekends, I believe in code that **evolves, adapts, and lasts**.  
-
-- 🔧 **Focus:** Full Stack Development | System Design | AI-Powered SaaS  
-- 🧠 **Currently Learning:** Advanced DSA, System Design Patterns, Backend Scalability  
-- 🌍 **Beyond Tech:** Exploring cities, cars, anime, and all things creative  
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001524&height=220&section=header&text=AVI%20BHATNAGAR&fontSize=75&fontAlignY=45&animation=fadeIn&fontColor=00E676&desc=FULL%20STACK%20ARCHITECT%20|%20AI%20INNOVATOR&descSize=20&descAlignY=70&stroke=00e676&strokeWidth=2" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
-
-</div>
-
----
-
-## 🧩 Featured Projects
-
-- **⚡ NexStream**  
-  An **AI-powered live streaming platform** with real-time video calling, moderation, and collaboration.  
-
-- **📊 AI Video Analyzer**  
-  Full pipeline for analyzing YouTube videos: transcription, hate-speech detection, and sentiment analysis  
-  *(FastAPI · Celery · HuggingFace · Whisper · yt-dlp)*  
-
-💡 *Every project I build prioritizes not just functionality but also **architecture, scalability, and user experience.***  
-
----
-
-## 📈 GitHub Insights
-
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=Avibhatnagar10&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=6" height="200" alt="GitHub streak stats"/>
-   <br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=Avibhatnagar10&show_icons=true&theme=radical&hide_border=true" height="200" alt="GitHub stats"/>
-</div>
-
----
-
-## 🌐 Let’s Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/avi-bhatnagar-54518321a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Avi_Bhatnagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- 
-  <a href="mailto:avibhatnagar10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00c6ff&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Crafting+Modern+Frontends;Optimizing+AI+Pipelines;Exploring+System+Design" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
+## ☁️ The Workspace
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Avibhatnagar10" alt="visitor badge"/>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3> About Me</h3>
+        <p align="left">
+          I am a <b>Software Craftsman</b> focusing on the intersection of aesthetics and performance. 
+          Building scalable backends and fluid interfaces with a minimalist mindset.
+          <br/><br/>
+          🔹 <b>Current:</b> Engineering <i>NexStream</i> <br/>
+          🔹 <b>Core:</b> System Design & AI Integration <br/>
+          🔹 <b>Vibe:</b> Clean Code, Minimalist UI, Fast Cars
+        </p>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avibhatnagar10&theme=transparent" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📱 My Ecosystem (Tech Stack)
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgresql,docker,aws,githubactions,selenium,linux,git,postman&theme=dark" />
+  </p>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avibhatnagar10&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=ffffff&text_color=A2D2FF" width="400px" />
+</div>
+
+---
+
+## 📊 Analytics Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avibhatnagar10&show_icons=true&theme=transparent&rank_icon=github&border_radius=15&include_all_commits=true&title_color=ffffff&icon_color=A2D2FF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avibhatnagar10&theme=transparent&border_radius=15&stroke=ffffff&ring=A2D2FF&text=ffffff" width="48%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avibhatnagar10&theme=react-dark&area=true&hide_border=true&color=A2D2FF" width="100%" />
+</div>
+
+---
+
+## 🏗️ Project Portfolio
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Avibhatnagar10/NexStream-AI-Powered">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avibhatnagar10&repo=NexStream-AI-Powered&theme=transparent&title_color=A2D2FF&text_color=ffffff&border_radius=15&show_owner=false" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Avibhatnagar10/YT-AI-Analyzer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avibhatnagar10&repo=YT-AI-Analyzer&theme=transparent&title_color=A2D2FF&text_color=ffffff&border_radius=15&show_owner=false" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/avi-bhatnagar-54518321a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:avibhatnagar10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avibhatnagar10&color=A2D2FF&style=flat-square&label=VISITS" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Design%20is%20not%20just%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works." />
 </div>
