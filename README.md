@@ -53,47 +53,52 @@
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avibhatnagar10&theme=react-dark&area=true&hide_border=true&color=A2D2FF" width="100%" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avibhatnagar10&theme=react-dark&area=true&hide_border=true&color=A2D2FF&custom_title=Monthly%20Contribution%20Flow" width="100%" /></div>
 
 ---
 
-## 🏗️ Project Portfolio
+## 🏗️ Featured Builds
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Avibhatnagar10/NexStream-AI-Powered">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avibhatnagar10&repo=NexStream-AI-Powered&theme=transparent&title_color=A2D2FF&text_color=ffffff&border_radius=15&show_owner=false" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Avibhatnagar10/YT-AI-Analyzer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avibhatnagar10&repo=YT-AI-Analyzer&theme=transparent&title_color=A2D2FF&text_color=ffffff&border_radius=15&show_owner=false" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p><i>Engineering scalable solutions with a focus on high-performance architecture.</i></p>
 </div>
+
+### ⚡ NexStream | AI-Powered Live Engine
+> **A sophisticated real-time streaming ecosystem designed for modern creators.**
+* **Experience:** Low-latency video calling with seamless user collaboration.
+* **Intelligence:** Built-in **AI Moderation** for real-time safety and chat filtering.
+* **Scale:** Distributed architecture handling high-concurrency streams.
+* **Stack:** `Next.js` • `WebRTC` • `Socket.io` • `TailwindCSS`
 
 ---
 
-## 🔗 Connect With Me
+### 📊 YT-AI-Analyzer | Intelligence Pipeline
+> **Transforming raw video data into actionable sentiment and safety insights.**
+* **The Engine:** Automated pipeline for high-speed YouTube transcription using **Whisper**.
+* **Analysis:** Deep-dive sentiment analysis and multi-layer hate speech detection.
+* **Processing:** Background task management using **Celery** for high-volume jobs.
+* **Stack:** `FastAPI` • `Redis` • `HuggingFace` • `yt-dlp`
+
+---
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/avi-bhatnagar-54518321a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p>Always down to chat about <b>System Design</b>, <b>AI</b>, or <b>Open Source</b>.</p>
+  
+  <a href="https://www.linkedin.com/in/avi-bhatnagar-54518321a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <a href="mailto:avibhatnagar10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:avibhatnagar10@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avibhatnagar10&color=A2D2FF&style=flat-square&label=VISITS" />
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Design%20is%20not%20just%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works." />
+  &nbsp;&nbsp;
+  
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Avibhatnagar10&color=A2D2FF&style=flat-square&label=PROFILE+VIEWS" />
 </div>
